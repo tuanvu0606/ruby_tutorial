@@ -1,0 +1,4 @@
+[2018-11-28 23:18:37] INFO  WEBrick 1.4.2
+[2018-11-28 23:18:37] INFO  ruby 2.5.1 (2018-03-29) [x86_64-linux]
+== Sinatra (v2.0.4) has taken the stage on 4567 for development with backup from WEBrick
+[2018-11-28 23:18:37] INFO  WEBrick::HTTPServer#start: pid=17720 port=4567
